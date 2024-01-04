@@ -1,7 +1,7 @@
 
-# React Blog Website
+# Password Manager
 
-This project uses React.js, Node.js, Express, and SQL to create a simple password manager that encrypts a users login information and stores it on an SQL database. It has a simple UI in which users can simply add new credetials at the top or click to view their passwords that have already been stored.
+This project uses React.js, Node.js, Express, and SQL to create a simple password manager that encrypts a user's login information and stores it on an SQL database. It has a simple UI in which users can simply add new credentials at the top or click to view their passwords that have already been stored.
 
 
 ## Run Locally
@@ -46,7 +46,7 @@ Start the server
 
 ## Lessons Learned
 
-With this project being a full stack application, I recieved a lot of knowledge on building API's, encrypting and decrypting data in a secure fashion, and building out a front-end in react.
+With this project being a full-stack application, I received a lot of knowledge on building APIs, encrypting and decrypting data in a secure fashion, and building out a front-end in React.
 
 
 ## Tech Stack
